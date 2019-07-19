@@ -1,0 +1,5 @@
+x,y=input().split()
+a=int(x)
+b=int(y)
+c=pow(a,b)
+print(c)
